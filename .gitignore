@@ -1,0 +1,6 @@
+config/ayar.php
+.env
+temp/
+*.log
+.vscode/
+.idea/
